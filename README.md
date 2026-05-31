@@ -93,8 +93,9 @@
 ## Установка и запуск
 
 ```bash
-git clone https://github.com/sidagor/educational_practice.git
-cd educational_practice
+git clone 
+https://github.com/sidagor/educational_practice_DPO_4_team.git
+cd educational_practice_DPO_4_team
 pip install -r requirements.txt
 jupyter notebook
 ```
