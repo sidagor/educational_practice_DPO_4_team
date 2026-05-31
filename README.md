@@ -84,9 +84,9 @@
 
 **Лучшая модель:** LightGBM с Optuna-параметрами, датасет `final`, 3 таргета.
 
-**Результат на Kaggle:** ![Лучший результат](educational_practice/screenshots/best_result.png)
+**Результат на Kaggle:** ![Лучший результат](screenshots/best_result.png)
 
-**Позиция в лидерборде:** [Лидерборд](educational_practice/screenshots/leaderboard_chemai.png)
+**Позиция в лидерборде:** ![Лидерборд](screenshots/leaderboard_chemai.png)
 
 (зафиксирована на 30.05.2026 22:20)
 
